@@ -7,6 +7,7 @@ Get organized and conquer your to-do list!
 - Three priority levels to assign a to-do item.
 - Dynamically add, remove or edit notes.
 - Remains accessible offline thanks to local storage. No account or internet connection required!
+  - Resposive website, so perfect to use in your phone to quickly jot down you todo.
 
 # Feature ideas to implement
 
